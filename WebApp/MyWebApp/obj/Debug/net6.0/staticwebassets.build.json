@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qM/zbgP/hynqn9+Sl2vGriGzlRwayzr+pGgerRm/bBo=",
+  "Hash": "n/mLqNAjjcX8pKX1hy0Lbf1JdhhprBxeDg3EqDb4gwQ=",
   "Source": "MyWebApp",
   "BasePath": "_content/MyWebApp",
   "Mode": "Default",
@@ -49,6 +49,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Shahr\\source\\repos\\WebApp\\WebApp\\MyWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyWebApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Shahr\\source\\repos\\WebApp\\WebApp\\MyWebApp\\wwwroot\\css\\MintyBootStrap.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shahr\\source\\repos\\WebApp\\WebApp\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "css/MintyBootStrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\MintyBootStrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\Shahr\\source\\repos\\WebApp\\WebApp\\MyWebApp\\wwwroot\\css\\QartzBootStrap4.css",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shahr\\source\\repos\\WebApp\\WebApp\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "css/QartzBootStrap4.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\QartzBootStrap4.css"
     },
     {
       "Identity": "C:\\Users\\Shahr\\source\\repos\\WebApp\\WebApp\\MyWebApp\\wwwroot\\css\\site.css",

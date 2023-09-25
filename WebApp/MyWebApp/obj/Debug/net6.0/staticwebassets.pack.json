@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\MyWebApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Shahr\\source\\repos\\WebApp\\WebApp\\MyWebApp\\wwwroot\\css\\MintyBootStrap.css",
+      "PackagePath": "staticwebassets\\css\\MintyBootStrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Shahr\\source\\repos\\WebApp\\WebApp\\MyWebApp\\wwwroot\\css\\QartzBootStrap4.css",
+      "PackagePath": "staticwebassets\\css\\QartzBootStrap4.css"
+    },
+    {
       "Id": "C:\\Users\\Shahr\\source\\repos\\WebApp\\WebApp\\MyWebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
